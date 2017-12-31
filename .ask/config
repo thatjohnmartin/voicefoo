@@ -1,0 +1,19 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.46aecd9c-ab68-4075-a46a-87a08682250b",
+      "was_cloned": false,
+      "merge": {
+        "skillManifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "ask-custom-voicefoo-default"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
